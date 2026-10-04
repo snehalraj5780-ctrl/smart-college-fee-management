@@ -1,0 +1,7 @@
+college_fee.db
+college_fee.db-wal
+college_fee.db-shm
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.pytest_cache/
